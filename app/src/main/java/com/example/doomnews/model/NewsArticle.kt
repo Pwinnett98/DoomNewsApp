@@ -10,3 +10,4 @@ data class NewsArticle(
     @DrawableRes val imageResourceId: Int,
     val lastUpdateTime: String
 )
+
